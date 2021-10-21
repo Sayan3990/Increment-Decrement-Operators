@@ -1,6 +1,6 @@
 # Increment Decrement Operators
 ### Increment Decrement Operators and Method to Solve Tricky Questions in C
-- [Increment-Decrement-Operators](https://github.com/Sayan3990/Increment-Decrement-Operators/tree/main/Increment-Decrement-Operator)
+- [Increment Decrement Operators](https://github.com/Sayan3990/Increment-Decrement-Operators/tree/main/Increment-Decrement-Operator)
 - [Method to Solve Increment Decrement Problem](https://github.com/Sayan3990/Increment-Decrement-Operators/tree/main/Method-to-Solve-Increment-Decrement-Problem)
 
 ## License
