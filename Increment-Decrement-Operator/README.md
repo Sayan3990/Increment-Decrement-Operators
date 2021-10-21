@@ -31,9 +31,9 @@ In this form, the decrement operator is placed after the operand. It first takes
       int a=10; 
       printf(“\na=%d”,++a);	// a=11
       printf(“\na=%d”,a++);	// a=11
-      printf(“\na=%d”,a);	  // a=12
-      printf(“\na=%d”,a–);	// a=12
-      printf(“\na=%d”,–a);	// a=10
+      printf(“\na=%d”, a );	// a=12
+      printf(“\na=%d”,a--);	// a=12
+      printf(“\na=%d”,--a);	// a=10
       return (0);
     }
     
